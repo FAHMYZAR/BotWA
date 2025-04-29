@@ -1,6 +1,6 @@
-# BotWA - WhatsApp User Bot 🤖
+# FAHMYZZX-BotWa - WhatsApp User Bot 🤖
 
-BotWA adalah sebuah **user bot** untuk WhatsApp yang dirancang untuk membantu mengelola akun WhatsApp Anda secara otomatis. Dengan fitur-fitur canggih seperti downloader, pencarian, pembuatan stiker, dan berbagai alat lainnya, BotWA memberikan pengalaman yang lebih efisien dan menyenangkan dalam menggunakan WhatsApp.
+FAHMYZZX-BotWa adalah sebuah **user bot** untuk WhatsApp yang dirancang untuk membantu mengelola akun WhatsApp Anda secara otomatis. Dengan fitur-fitur canggih seperti downloader, pencarian, pembuatan stiker, dan berbagai alat lainnya, FAHMYZZX-BotWa memberikan pengalaman yang lebih efisien dan menyenangkan dalam menggunakan WhatsApp.
 
 ---
 
@@ -61,8 +61,8 @@ Cari informasi dari berbagai platform:
 1. Pastikan Anda memiliki **Node.js** versi terbaru.
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/FAHMYZAR/BotWA.git
-   cd BotWA
+   git clone https://github.com/FAHMYZAR/FAHMYZZX-BotWa.git
+   cd FAHMYZZX-BotWa
    ```
 3. Instal dependensi:
    ```bash
@@ -140,7 +140,7 @@ Jika Anda ingin berkontribusi:
 ---
 
 ## 🐞 Pelaporan Bug
-Jika Anda menemukan bug, silakan laporkan di [Issues](https://github.com/FAHMYZAR/BotWA/issues).
+Jika Anda menemukan bug, silakan laporkan di [Issues](https://github.com/FAHMYZAR/FAHMYZZX-BotWa/issues).
 
 ---
 
@@ -154,5 +154,4 @@ Bot ini dikembangkan oleh **FahmyzzxXJongnesia**. Jika Anda memiliki pertanyaan 
 
 ---
 
-Terima kasih telah menggunakan **BotWA**! 🎉
-```
+Terima kasih telah menggunakan **FAHMYZZX-BotWa**! 🎉
